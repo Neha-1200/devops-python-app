@@ -1,0 +1,12 @@
+
+__pycache__/
+*.pyc
+.venv/
+.pytest_cache/
+.terraform/
+*.tfstate
+*.tfstate.*
+crash.log
+.env
+.vscode/
+.idea/
